@@ -5,15 +5,15 @@ Reflexiona brevemente sobre:
 
 🔍 ¿Qué aprendizajes o avances personales reconozco hasta ahora?
 
-Mi 20 en el segundo laboratorio de Swift, tambien mi conocimiento de AWS para el curso de Soluciones en la nube.
+- Mi 20 en el segundo laboratorio de Swift, tambien mi conocimiento de AWS para el curso de Soluciones en la nube.
 
 💼 ¿Qué retos me han costado más y por qué?
 
-Organizar mejor mis tiempos y actividades, sin embargo, ya estoy mejorando en ese aspecto.
+- Organizar mejor mis tiempos y actividades, sin embargo, ya estoy mejorando en ese aspecto.
 
 🧠 ¿Qué emociones han sido frecuentes en mis días? ¿Cómo las gestiono?
 
-
+- 
 
 🛠️ ¿Qué cambiaría si volviera a empezar este ciclo hoy?
 
